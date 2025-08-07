@@ -1,4 +1,4 @@
-# The Updated Resource-Supply-Mod
+# The Resource-Supply-Mod V2
 A Mindustry mod supplying blocks that provide infinite resources, including in campaign maps.
 
 It works on both planets!
