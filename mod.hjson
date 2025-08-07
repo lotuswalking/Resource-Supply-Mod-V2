@@ -1,6 +1,6 @@
 name: source_mod
 displayName: Resource Supply Mod V2
-author: DLS
+author: hay_den9002 and DLS
 description: This mod provides infinite sources of liquid, power, and resources in campaign maps.
 version: "1.6.4"
 minGameVersion: "136"
