@@ -12,7 +12,7 @@ requirements: [ beryllium/1 ]
 buildCostMultiplier: 0.1
 
 category: power
-research: liquid-source-x
+
 
 alwaysUnlocked: true
-
+hideDatabase: true

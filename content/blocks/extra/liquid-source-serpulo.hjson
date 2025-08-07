@@ -15,7 +15,7 @@ requirements: [ copper/1 ]
 buildCostMultiplier: 0.1
 
 category: liquid
-research: item-source-x
+
 
 alwaysUnlocked: true
 
