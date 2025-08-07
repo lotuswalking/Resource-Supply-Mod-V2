@@ -17,4 +17,3 @@ buildCostMultiplier: 0.1
 category: liquid
 
 alwaysUnlocked: true
-hideDatabase: true
