@@ -1,0 +1,20 @@
+type: heatSource
+name: Heat Source
+description: Heat Source
+
+health: 99000
+size: 1
+
+
+regionRotated1: 1
+itemCapacity:0
+
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1
+
+category: crafting
+
+
+alwaysUnlocked: true
+

@@ -1,7 +1,7 @@
-name: source_mod
-displayName: Resource Supply Mod V2
-author: hay_den9002 and DLS
-description: This mod provides infinite sources of liquid, power, and resources in campaign maps.
+name: Resource_Supply_Mod_V3
+displayName: Resource Supply Mod V3
+author: junyan hay_den9002 and DLS
+description: This mod provides infinite sources of liquid, power add Heat too, and resources in campaign maps.
 version: "2"
 minGameVersion: "136"
 dependencies: []
