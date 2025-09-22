@@ -4,10 +4,10 @@ description: Heat Source
 
 health: 99000
 size: 1
-
+rotateDraw: false
 heatOutput: 100
-regionRotated1: 1
 itemCapacity:0
+allDatabaseTabs: true
 
 
 requirements: [ copper/1 ]

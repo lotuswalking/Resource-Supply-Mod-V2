@@ -4,17 +4,13 @@ description: heat Source
 
 health: 99000
 size: 1
-
+rotateDraw: false
 heatOutput: 100
-regionRotated1: 1
 itemCapacity:0
-
+allDatabaseTabs: true
 
 requirements: [ beryllium/1 ]
 buildCostMultiplier: 0.1
-
 category: crafting
-
-
 alwaysUnlocked: true
 
