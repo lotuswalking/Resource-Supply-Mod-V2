@@ -1,11 +1,11 @@
-type: heatSource
+type: HeatProducer
 name: Heat Source
 description: Heat Source
 
 health: 99000
 size: 1
 
-
+heatOutput: 100
 regionRotated1: 1
 itemCapacity:0
 

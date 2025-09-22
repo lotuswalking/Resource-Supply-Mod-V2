@@ -1,0 +1,43 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Mon Sep 22 10:38:33 2025           **
+;**                                                                **
+;** MakeCAB Version: 5.00                                 **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,1.cab
+[file list]
+1,1,credits.txt,240
+1,1,icon.png,831
+1,1,LICENSE,1235
+1,1,mod.hjson,290
+1,1,preview.png,831
+1,1,README.md,971
+1,1,heat-source-erekir.hjson,239
+1,1,heat-source-serpulo.hjson,236
+1,1,item-source-erekir.hjson,282
+1,1,item-source-serpulo.hjson,279
+1,1,liquid-source-erekir.hjson,303
+1,1,liquid-source-serpulo.hjson,304
+1,1,payload-source-erekir.hjson,290
+1,1,payload-source-serpulo.hjson,287
+1,1,power-source-erekir.hjson,255
+1,1,power-source-serpulo.hjson,252
+1,1,heat-source-erekir.png,517
+1,1,heat-source-serpulo.png,517
+1,1,item-source-erekir.png,388
+1,1,item-source-serpulo.png,388
+1,1,liquid-source-erekir.png,391
+1,1,liquid-source-serpulo.png,391
+1,1,payload-source-erekir.png,1723
+1,1,payload-source-serpulo.png,1723
+1,1,power-source-erekir.png,585
+1,1,power-source-serpulo.png,585
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Mon Sep 22 10:38:33 2025           **
+;**                                                                **
+;*** END ************************************************************
